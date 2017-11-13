@@ -1,0 +1,16 @@
+.shrinking-box {
+  border: 1px solid darkslateblue;
+  padding:1em;
+  width:360px;
+  height:360px;
+  background-color: rgb(200, 200, 200);
+}
+
+.Aligner {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
